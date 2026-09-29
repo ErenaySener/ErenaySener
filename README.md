@@ -34,18 +34,11 @@ I work mainly with JavaScript and React, and I'm currently expanding my backend 
 
 ## 📌 Featured Projects
 
-### 🐾 Veterinary Clinic Website
-A modern website for a veterinary clinic focused on responsive design, usability and real business requirements.
-
 ### 📇 Contacts Manager
-A React application with authentication, protected routes, Redux state management and API integration.
+A React application with authentication, protected routes, Redux state management and REST API integration.
+
+### 🔗 Contacts API
+A RESTful backend API built with Node.js, Express, MongoDB and Mongoose, featuring user authentication, session management, validation, pagination and filtering.
 
 ### 🔎 Image Search App
 A JavaScript application using a REST API, Axios, async/await, pagination and error handling.
-
-### 💼 Job Application Tracker
-A full-stack application for tracking job applications, interviews and application statuses.
-
-## 🎯 Current Goal
-
-I'm looking for my first professional opportunity in software development where I can contribute to real-world projects and continue growing as a developer.
