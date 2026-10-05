@@ -45,5 +45,9 @@ A RESTful backend API built with Node.js, Express, MongoDB and Mongoose, featuri
 ### 🔎 [Image Search App](https://github.com/ErenaySener/image-search-app)
 A responsive image search application built with JavaScript, Axios and the Pixabay API, featuring pagination, lightbox previews and error handling.
 
+[Live Demo](https://erenaysener.github.io/image-search-app/)
+
 ### 🎨 [WebStudio Landing Page](https://github.com/ErenaySener/webstudio-landing-page)
 A responsive landing page built with HTML, CSS and JavaScript, featuring adaptive layouts, mobile navigation, an interactive modal and portfolio sections.
+
+[Live Demo](https://erenaysener.github.io/webstudio-landing-page/)
