@@ -25,6 +25,7 @@ I work mainly with JavaScript and React, and I'm currently expanding my backend 
 - VS Code
 - Vite
 - Axios
+- Vercel
 
 ## 🚀 Currently Working On
 
