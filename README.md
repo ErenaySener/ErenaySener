@@ -51,3 +51,7 @@ A responsive image search application built with JavaScript, Axios and the Pixab
 A responsive landing page built with HTML, CSS and JavaScript, featuring adaptive layouts, mobile navigation, an interactive modal and portfolio sections.
 
 [Live Demo](https://erenaysener.github.io/webstudio-landing-page/)
+
+## 🎯 Current Goal
+
+I'm looking for my first professional opportunity in software development where I can contribute to real-world projects, strengthen my skills and continue growing as a developer.
