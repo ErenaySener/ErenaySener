@@ -37,6 +37,8 @@ I work mainly with JavaScript and React, and I'm currently expanding my backend 
 ### 📇 [Contacts Manager](https://github.com/ErenaySener/contacts-manager)
 A React application with authentication, protected routes, Redux state management and REST API integration.
 
+[Live Demo](https://erenay-contacts-manager.vercel.app/)
+
 ### 🔗 [Contacts API](https://github.com/ErenaySener/contacts-api)
 A RESTful backend API built with Node.js, Express, MongoDB and Mongoose, featuring user authentication, session management, validation, pagination and filtering.
 
