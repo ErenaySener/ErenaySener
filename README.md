@@ -34,11 +34,11 @@ I work mainly with JavaScript and React, and I'm currently expanding my backend 
 
 ## 📌 Featured Projects
 
-### 📇 Contacts Manager
+### 📇 [Contacts Manager](https://github.com/ErenaySener/contacts-manager)
 A React application with authentication, protected routes, Redux state management and REST API integration.
 
-### 🔗 Contacts API
+### 🔗 [Contacts API](https://github.com/ErenaySener/contacts-api)
 A RESTful backend API built with Node.js, Express, MongoDB and Mongoose, featuring user authentication, session management, validation, pagination and filtering.
 
-### 🔎 Image Search App
-A JavaScript application using a REST API, Axios, async/await, pagination and error handling.
+### 🔎 [Image Search App](https://github.com/ErenaySener/image-search-app)
+A responsive image search application built with JavaScript, Axios and the Pixabay API, featuring pagination, lightbox previews and error handling.
